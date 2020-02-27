@@ -6,7 +6,7 @@ The Python program contains a function that receives a quantity of money as a pa
 Choose the best form to run the .py file, one form will be explored here.
 
 ### IDLE
-Download the .py file and run it in your computer (make sure you have Python installed). From the Python Shell, you can test the function using different approaches:
+Download the .py file and run it in your computer (make sure you have Python installed). From the Python Shell, you can test the function by doing this:
 
 ``` python
 fun(11.50)
